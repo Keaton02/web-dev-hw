@@ -2,4 +2,4 @@ Browers are pieces of software used to write instructions on the internet. They 
 
 A markup language is a system for annotating a document that can be read by s computer. Since we can't write the same way we do in literature to a computer, we have to write in a way the computer understands. One example is HTML which is the foundation and structure to a pages content.
 
-![My screen shot] (./images/habeck_screenshot3.png)
+[My Screenshot](./images/habeck_screenshot3.png)
