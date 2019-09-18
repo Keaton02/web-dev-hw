@@ -1,0 +1,7 @@
+1.The internet sends bits, or a system of 1's and 0's, through light, electricity or radio waves. Each has their own bandwidth or the maximum capacity of a device and bit rate, the number of bits you can send over a period of time. Ethernet cables can send bits through but it's usually not long enough. Fiber optic cables can send light through them at different angles and can be faster. Finally, radio waves carry bits at different frequencies and the receiver transmits it back into binary.
+
+2.IP, or Internet Protocol, address is a unique set of numbers for each device that allows it to communicate with other devices. The DNS is the 'actual' name of the website you're looking up which then links to the website's or device's IP address. We essentially ask for the IP address using the DNS and the internet connects us vis the IP address with its own DNS
+
+3.An HTTP cookie is a small piece of data that is sent from a website and stored on the device from the web browser. They are designed to be a mechanism where the computer remembers useful information about the user's web activity.
+
+4.The three parts of a URL are the protocol (http://), the domain (example.com), and the path (/directory/).
