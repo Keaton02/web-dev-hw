@@ -1,0 +1,8 @@
+The difference between the internet and the web is the internet is referred to as the network of networks while the web or "world wide web' is the information that is collected and tranferred via the internet.
+
+The internet is a system of computers and networks all across the globe that stores information or "bits". When a person wants access to information, i.e. websites etc., the internet sends it in small amounts of bits to the other end. Ther term mbps, refers to hw fast your internet can send you bits.
+
+A web directory is an online list or catalog of websites. It includes links to stored information, including links to that information, organized into categories and subcategories. Directories are a way to keep your information stored and make sure it's organized.
+
+A Version Control System is beneficial because it eliminates risk when designing. It also allows developers to be faster, more efficient and agile at the projects and tram scales.
+
