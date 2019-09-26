@@ -1,0 +1,3 @@
+The <head> usually contains only meta data and some other useful things that only the page editor can see. Not the user. It can have 7 elements. The <body> is the meat and potatoes of the website is what the user can see. It can have many more elements.
+Structural markup refers to the information about the structure of a document. These include Headings, Paragraphs, Breaks, links and Lists. Semantic is meant to reinforce the information of a document. This includes bolds and italics.
+My work flow usually starts with looking at the assignment and getting all the assets I need. Then I follow along with the tutorials to see if there's any new information I need. I complete the assignment and then spend some time on the course website to see if there's anything I missed.
