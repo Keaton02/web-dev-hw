@@ -1,0 +1,3 @@
+divs are a way to group different elements together when it comes to styles and content. It offers a block-level element. The class attribute groups similar elements together by using the same name value. id's are a way to group unique elements. Spans are placed within divs to organize or style your content.
+alt-text gives the reader extra information about the image. It helps visually impaired people.
+For this assignment, i did the same thing as last week. I got all the assets I needed. The I followed along with the walkthrough. After that I added some more style and anything else I missed while I was working. After that I went of the website to see if I missed or if I could add anything different to my page.
