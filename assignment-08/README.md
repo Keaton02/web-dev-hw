@@ -1,0 +1,3 @@
+I had a little HTMl experience when I took a Dreamweaver class in high school. I quickly forgot all of it when I started college because Dreamweaver isn't even used anymore. But following along with the tutorials made everything very easy to understand.
+I'm just worried that it isn't going to work. Type something wrong and I have no idea how to fix it. That sort of thing.
+I came up with an idea that's really simple to teach someone. Even a four year old or an eighty year old can learn this simple task. Then I made sure I all all the required things like links and tables and forms and chekced that they all worked. 
