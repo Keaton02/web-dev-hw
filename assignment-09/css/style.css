@@ -1,0 +1,15 @@
+h1 {color: orange;}
+h2 {color: #E5E500}
+
+.triangle { background-color: #A9A9A9; width: 100%;  }
+
+p {color: #660000; size: 200px  }
+
+img {margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px; center; opacity: 0.5; position: relative;}
+
+/*None of this worked and the website was just even more confusing*/
+
+.square {background-position: center; background-color: #A9A9A9}
