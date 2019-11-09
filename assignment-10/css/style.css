@@ -1,0 +1,15 @@
+.Text {color: white; background-color: black}
+
+.Heading {align-items: stretch; color: white;}
+
+.Subheading {color: white;}
+
+body { background-color: orange; font-family: 'Merriweather', serif; font-size: 6em; line-height: 80%; text-align: center;}
+
+p:first-letter {font-family: 'Meddon', cursive; font-size: 3em; font-weight: bold; color: orange;}
+
+a {background-color: black; color: white; }
+
+a:hover {font-style: italic; }
+a:visited {color: gray}
+a:active {background-color: blue; color: gray; }
