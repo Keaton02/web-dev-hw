@@ -1,0 +1,30 @@
+body { background-color: black}
+.Head {color: white; font-size: 3em; border: 5px solid white;}
+.Title {color: white; font-size: 2.5em;
+}
+.Title:hover {font-style: italic;}
+.Nav {color: white; background-color: gray;font-size: 2em; }
+
+nav {
+   background: #333;
+   /* To stick to the top! */
+   /* position: sticky;
+   top: 0; */
+}
+nav a {
+   background: inherit;
+   color: #FFF;
+   text-decoration: none;
+   text-align: center;
+
+   display: inline-block;
+   padding: 15px 0;
+   width: 20%;
+   float: left;
+}
+nav a:hover {
+   background-color: #999;
+}
+
+.text {background-color: white; color: black;padding-left: 0.25em; padding-right: 0.25em; padding-top: 0.25em; padding-bottom: 0.25em; margin: 1em;
+display: block; position: relative; float: right;}
