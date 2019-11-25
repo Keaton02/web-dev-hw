@@ -1,0 +1,3 @@
+My client wanted to show people what tools people should buy to make high quality videos for the lowest price possible.
+Blocks turn elements into "inline" or "inline-block elements". INline forces the elements to not create any new line and flow with the rest of the site. INline-block creates new lines and forces the elements to behave with the margins and property rules.
+For this assignment I really tried to nail the dropdown menu. But I don't know why the code isn's letting me do that. I hope the code can show on GitHUb but now matter what I tried I couldn't figure it out. The rest was simple and I followed the theme I stuck to. 

@@ -1,0 +1,38 @@
+body {background-color: black;
+}
+.head {color: white; font-family: 'Open Sans', sans-serif; }
+
+nav {
+   background: #333;
+   /* To stick to the top! */
+   /* position: sticky;
+   top: 0; */
+}
+nav a {
+   background: inherit;
+   color: #FFF;
+   text-decoration: none;
+   text-align: center;
+
+   display: inline-block;
+   padding: 15px 0;
+   width: 20%;
+   float: left;
+}
+nav a:hover {
+   background-color: #999;
+}
+
+#nav .menu-item { display: inline-block; padding: .5em 1em; width: 6em}
+#nav .dropdown {display: inline-block; width: 6em; }
+#nav .dropdown-content { z-index: 5; display: none; ; padding: .5em; width: 2em;}
+#nav .dropdown-content a { color: white;  }
+#nav .dropdown-content a:hover {display: block}
+#nav .dropdown-content:hover {display: block}
+#nav .dropdown-item {width: 6em; padding: .5em 1em; text-align: center; position: relative;; z-index: 5; display:block;}
+
+p {color: white; padding: 4em; text-align: center; font-family: 'Open Sans', sans-serif;}
+
+img {padding: 5em}
+
+form {color: white; align-items: center; padding: 2em}
