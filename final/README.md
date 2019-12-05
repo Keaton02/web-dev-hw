@@ -1,0 +1,3 @@
+Everything I did in this class was new. I had never learned code in this way before. I had taken a Dreamweaver class in high school, but that wasn't anything like this. It was challenging but after I figured out the problems, I felt really good.
+Same is true about web design. This is all new stuff to me. It's similar to the photoshop class, but having to code all of this yourself is different rather than having Photoshop do it.
+I wanted to showcase something I want to do. So I organized the pages how I saw fit and added the appropriate content. I then re watched a few tutorials on the content that was difficult so I could really get the hang of it.
